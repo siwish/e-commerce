@@ -1,0 +1,146 @@
+header {
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+#lang {
+    border: 2px solid rgb(177, 174, 2);
+    border-radius: 5px;
+    background-color: black;
+    margin-left: 18px;
+    color: white;
+    height: 30px;
+}
+
+#b1 {
+    border: 2px solid rgb(177, 174, 2);
+    border-radius: 5px;
+    background-color: black;
+}
+
+#b2 {
+    border: 2px solid rgb(177, 174, 2);
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    border-top: 0.2px solid gray;
+    background-color: black;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.c1 {
+    background-color: aqua;
+    height: 400px;
+}
+
+.c2 {
+    display: flex;
+}
+
+.p1 {
+    background-color: rgb(151, 252, 164);
+    color: black;
+    border-radius: 6px;
+    padding: 3px;
+    opacity: 75%;
+    margin-top: 160px;
+    margin-left: -147px;
+    font-weight: bold;
+}
+
+.p2 {
+    color: black;
+    opacity: 80%;
+    font-weight: bold;
+    margin-top: 190px;
+    margin-left: -70px;
+}
+
+#b3 {
+    margin-left: 750px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+footer {
+    background-color: rgb(31, 31, 31);
+    text-align: center;
+}
+
+#new {
+    color: white;
+}
+
+#new:hover {
+    color: black;
+}
+
+footer:hover {
+    background-color: grey;
+}
+
+.bell1 {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+    padding: 0px 80px;
+}
+
+.bell2 {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+    padding: 0px 80px;
+}
+
+.bell3 {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+    padding: 0px 80px;
+}
+
+.bell4 {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+    padding: 0px 80px;
+}
+
+li {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    list-style: none;
+    margin: 5px -30px;
+}
+
+.hell {
+    float: left;
+    background-color: black;
+    width: 100%;
+}
